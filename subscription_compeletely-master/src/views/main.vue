@@ -1358,7 +1358,7 @@ const echarts = require('echarts');
                       readOnly: false,
                                             },
                       
-                      magicType : {show: true, type: ['line', 'bar']},
+                      magicType : {show: true, type: [ 'bar']},
                       // restore: {show: true},
                       saveAsImage: {show: true}
                     },
